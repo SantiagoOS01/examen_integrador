@@ -3,3 +3,4 @@
 Victoria da Silva
 Paula Correa
 Pierre Crespin
+Santiago Osorio S
